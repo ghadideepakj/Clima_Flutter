@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Clima app gives weather information about the city user enters and also uses User's current location to show weather of this hometown.
+Clima app gives weather information about the city user enters and also uses User's current location to show weather of his hometown.
 
 Here's a brief description in gif format
 
